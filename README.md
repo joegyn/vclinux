@@ -1,4 +1,4 @@
-# vclinux
+# vclinux ------------
 Unofficial scripts and stuff related to the [Visual C++ for Linux Development extension](http://aka.ms/vslinux). 
 
 Yes I'm the program manger for that but this is stuff I've made on the side. Think about it. If this was good enough to ship it'd be in the box right?
